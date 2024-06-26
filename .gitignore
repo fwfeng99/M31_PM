@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+*.csv
+*.fits
+*.txt
+!File_Readme.txt
+
+test*.py
+mci_ast_unittest.py
+*.puml
+
+*.fit

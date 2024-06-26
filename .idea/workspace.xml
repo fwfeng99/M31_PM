@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1d18313-ecbd-4e4d-9d74-49dc2bcf5763" name="Changes" comment="commit.">
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2USVf1bDc9i3xeB7S9MctbhBxcZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "<unknown>",
+    "last_opened_file_path": "//wsl$/Ubuntu-20.04/home/fangwf/software/miniconda3/envs/csst_mci/bin/python3.11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "two.files.diff.last.used.file": "D:/Code/Python/M31_Kinematics/M31_PM/PM_calculate/M31_PM_class_validate.py",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\Python\M31_Kinematics\M31_PM\PM_calculate" />
+      <recent name="D:\Code\Python\M31_Kinematics" />
+      <recent name="D:\Code\Python\M31_Kinematics\M31_PM\_plot" />
+      <recent name="D:\Code\Python\M31_Kinematics\M31_PM\PM_calculate\Data" />
+      <recent name="D:\Code\Python\M31_Kinematics\M31_stars\Gaia" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code\Python\M31_Kinematics\M31_PM\PM_calculate\Data" />
+      <recent name="D:\Code\Python\M31_Kinematics\M31_simulation\Star_scatters" />
+      <recent name="D:\Code\Python\M31_Kinematics\M31_PM\PM_calculate" />
+      <recent name="D:\Code\Python\M31_Kinematics" />
+      <recent name="D:\Code\Python\M31_Kinematics\M31_simulation\Rotation_curve\Data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1d18313-ecbd-4e4d-9d74-49dc2bcf5763" name="Changes" comment="" />
+      <created>1692933067494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692933067494</updated>
+      <workItem from="1692933068517" duration="1072000" />
+      <workItem from="1692934154308" duration="2753000" />
+      <workItem from="1692944270617" duration="6191000" />
+      <workItem from="1692957548731" duration="14000" />
+      <workItem from="1692957570421" duration="4652000" />
+      <workItem from="1693013774410" duration="171000" />
+      <workItem from="1693013956663" duration="5058000" />
+      <workItem from="1693186445318" duration="10164000" />
+      <workItem from="1693205264423" duration="36000" />
+      <workItem from="1693223060020" duration="10912000" />
+      <workItem from="1693318103706" duration="804000" />
+      <workItem from="1693838008591" duration="3184000" />
+      <workItem from="1693963078172" duration="1281000" />
+      <workItem from="1696688935266" duration="807000" />
+      <workItem from="1696992611994" duration="6615000" />
+      <workItem from="1697094795579" duration="3513000" />
+      <workItem from="1698656573934" duration="60614000" />
+      <workItem from="1701883719484" duration="3278000" />
+      <workItem from="1702119416568" duration="30000" />
+      <workItem from="1702258817344" duration="3941000" />
+      <workItem from="1702286149341" duration="1206000" />
+      <workItem from="1702347755246" duration="2000" />
+      <workItem from="1702951801727" duration="45265000" />
+      <workItem from="1703226484367" duration="7942000" />
+      <workItem from="1703237812924" duration="395000" />
+      <workItem from="1703239259119" duration="49000" />
+      <workItem from="1703557312482" duration="865000" />
+      <workItem from="1703773229332" duration="29000" />
+      <workItem from="1704360838342" duration="59000" />
+      <workItem from="1705324803664" duration="214000" />
+      <workItem from="1705326964396" duration="931000" />
+      <workItem from="1710579952065" duration="11975000" />
+      <workItem from="1710941274940" duration="10011000" />
+      <workItem from="1712125888816" duration="1144000" />
+      <workItem from="1712728380397" duration="321000" />
+      <workItem from="1713493744926" duration="4447000" />
+      <workItem from="1713706213671" duration="9764000" />
+      <workItem from="1716715777158" duration="1250000" />
+      <workItem from="1718078895057" duration="1065000" />
+      <workItem from="1719390556697" duration="3067000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit.">
+      <option name="closed" value="true" />
+      <created>1703237066677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703237066677</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit xml.">
+      <option name="closed" value="true" />
+      <created>1703237845288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1703237845288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit.">
+      <option name="closed" value="true" />
+      <created>1719390602141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719390602141</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first commit." />
+    <MESSAGE value="commit xml." />
+    <MESSAGE value="commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="commit." />
+  </component>
+</project>
